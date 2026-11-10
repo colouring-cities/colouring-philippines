@@ -1,13 +1,13 @@
 {
-    "cityName": "Cities",
+    "cityName": "Philippines",
     "institution": "The Alan Turing Institute",
     "projectBlurb": "Colouring {City Name} is part of Colouring Cities.",
     
-    "githubURL": "https://github.com/colouring-cities/colouring-core",
+    "githubURL": "https://github.com/colouring-cities/colouring-philippines",
     "manualURL": "https://github.com/colouring-cities/manual/wiki/COLOURING-BRITAIN",
     "privacyStatement": "{Privacy statement goes here}",
 
-    "initialMapPosition": [ 51.5245255, -0.1338422 ],
+    "initialMapPosition": [14.6507, 121.0494],
     "initialZoomLevel": 16,
 
     "postcode": "Postcode",
